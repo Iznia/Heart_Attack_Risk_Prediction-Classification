@@ -1,0 +1,3 @@
+URL Dataset: https://www.kaggle.com/datasets/iamsouravbanerjee/heart-attack-prediction-dataset/data
+
+URL Deployment: https://huggingface.co/spaces/Iznia/Heart_Attack_Prediction
